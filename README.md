@@ -49,7 +49,7 @@ This repository provides the complete set of design resources required to manufa
 
 <p align="center">
   <img src="./TBB%20Arena%20Rendering/Scene%202.jpeg" width="48%">
-  <img src="./TBB%20Arena%20Rendering/Scene%202.png" width="48%">
+  <img src="./TBB%20Arena%20Model%20SS/2.png" width="48%">
 </p>
 
 <p align="center">
