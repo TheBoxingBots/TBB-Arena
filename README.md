@@ -43,10 +43,19 @@ This repository provides the complete set of design resources required to manufa
 
 ## Gallery
 
-<p align="center"> <img src="./TBB%20Arena%20Rendering/Scene%206.png" width="48%" alt="Arena Render 1"> <img src="./TBB%20Arena%20Rendering/Scene%202.png" width="48%" alt="Arena Render 2"> </p>
+<p align="center">
+  <img src="./TBB%20Arena%20Rendering/Scene%206.png" width="90%">
+</p>
 
-<p align="center"> <img src="./TBB%20Arena%20Rendering/Scene%2013.jpeg" width="48%" alt="Arena Render 3"> <img src="./TBB%20Arena%20Size/PHOTO-2025-02-14-17-25-13.jpg" width="48%" alt="Arena Dimensions"> </p>
+<p align="center">
+  <img src="./TBB%20Arena%20Rendering/Scene%202.jpeg" width="48%">
+  <img src="./TBB%20Arena%20Rendering/Scene%202.png" width="48%">
+</p>
 
+<p align="center">
+  <img src="./TBB%20Arena%20Size/PHOTO-2025-02-14-17-25-13.jpg" width="48%">
+  <img src="./TBB%20Arena%20Rendering/Scene%2013.jpeg" width="48%">
+</p>
 ---
 
 ## Website
