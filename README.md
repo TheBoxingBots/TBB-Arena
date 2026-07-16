@@ -73,5 +73,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ---
 
 <p align="center">
-Made with ❤️ by <strong>TheBoxingBots</strong>
+Maintained by <strong>TheBoxingBots</strong>
 </p>
